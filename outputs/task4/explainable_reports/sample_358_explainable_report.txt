@@ -1,0 +1,22 @@
+Crop Disease Diagnostic Report
+
+Sample ID: 18_748
+Input Image: 18_748.jpg
+
+1. Disease Classification Results
+Predicted Category: Grape Black Measles (General)
+Prediction Confidence: 0.821
+
+2. Severity Assessment
+Predicted Level: General Disease
+Confidence: 0.998
+
+3. Disease Characteristics Analysis
+General crop disease characteristics: Abnormal spots, discoloration or necrotic areas appear on leaves
+
+4. Explainability Analysis (Grad-CAM)
+Model identified mild disease symptoms on crop surface
+
+5. Agricultural Implications & Treatment Recommendations
+- Strengthen observation and consider using appropriate fungicides for preventive treatment
+- Improve crop growing environment conditions

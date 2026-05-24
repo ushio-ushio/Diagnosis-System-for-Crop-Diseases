@@ -1,0 +1,22 @@
+Crop Disease Diagnostic Report
+
+Sample ID: 1_14
+Input Image: 1_14.jpg
+
+1. Disease Classification Results
+Predicted Category: Apple Healthy
+Prediction Confidence: 0.544
+
+2. Severity Assessment
+Predicted Level: Healthy
+Confidence: 0.788
+
+3. Disease Characteristics Analysis
+Healthy crop: No obvious disease symptoms, good growth status
+
+4. Explainability Analysis (Grad-CAM)
+Model identified healthy crops with no abnormal symptoms
+
+5. Agricultural Implications & Treatment Recommendations
+- Continue good crop management
+- Regular inspection to prevent disease occurrence

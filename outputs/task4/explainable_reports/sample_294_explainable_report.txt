@@ -1,0 +1,23 @@
+Crop Disease Diagnostic Report
+
+Sample ID: 51_684
+Input Image: 51_684.JPG
+
+1. Disease Classification Results
+Predicted Category: Tomato Leaf Mold (Serious)
+Prediction Confidence: 0.769
+
+2. Severity Assessment
+Predicted Level: Serious Disease
+Confidence: 0.919
+
+3. Disease Characteristics Analysis
+Leaf mold characteristics: Gray-purple mold layer appears on the back of leaves, with yellow spots on the front
+
+4. Explainability Analysis (Grad-CAM)
+Model identified severe disease symptoms on crop surface
+
+5. Agricultural Implications & Treatment Recommendations
+- Immediately take treatment measures
+- Use targeted agents and consider isolating the infected area
+- Remove severely infected plants to prevent spread

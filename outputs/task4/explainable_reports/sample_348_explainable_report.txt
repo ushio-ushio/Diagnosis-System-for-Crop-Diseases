@@ -1,0 +1,23 @@
+Crop Disease Diagnostic Report
+
+Sample ID: 18_738
+Input Image: 18_738.jpg
+
+1. Disease Classification Results
+Predicted Category: Grape Black Rot (General)
+Prediction Confidence: 0.832
+
+2. Severity Assessment
+Predicted Level: General Disease
+Confidence: 0.837
+
+3. Disease Characteristics Analysis
+Black rot characteristics: Black sunken lesions appear on the fruit surface, and the entire fruit turns black and rots in later stages
+
+4. Explainability Analysis (Grad-CAM)
+Model identified initial small black spots on fruit surface
+
+5. Agricultural Implications & Treatment Recommendations
+- Improve orchard ventilation and lighting
+- Spray Bordeaux mixture or mancozeb for prevention
+- Remove diseased fruits to reduce pathogens

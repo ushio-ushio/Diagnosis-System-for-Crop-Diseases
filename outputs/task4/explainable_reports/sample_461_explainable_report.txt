@@ -1,0 +1,23 @@
+Crop Disease Diagnostic Report
+
+Sample ID: 31_851
+Input Image: 31_851.jpg
+
+1. Disease Classification Results
+Predicted Category: Pepper Scab (General)
+Prediction Confidence: 0.964
+
+2. Severity Assessment
+Predicted Level: General Disease
+Confidence: 0.929
+
+3. Disease Characteristics Analysis
+Scab characteristics: Brown scab lesions appear on the leaf/fruit surface, and severe cases cause leaf distortion and fruit malformation
+
+4. Explainability Analysis (Grad-CAM)
+Model identified initial scab lesions on leaf/fruit surface, manifested as small brown spots
+
+5. Agricultural Implications & Treatment Recommendations
+- Improve orchard ventilation and lighting
+- Spray Bordeaux mixture or mancozeb for prevention
+- Remove diseased leaves to reduce pathogens

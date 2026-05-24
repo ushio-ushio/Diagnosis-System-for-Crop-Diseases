@@ -1,0 +1,22 @@
+Crop Disease Diagnostic Report
+
+Sample ID: 48_923
+Input Image: 48_923.JPG
+
+1. Disease Classification Results
+Predicted Category: Tomato Early Blight (General)
+Prediction Confidence: 0.749
+
+2. Severity Assessment
+Predicted Level: General Disease
+Confidence: 0.991
+
+3. Disease Characteristics Analysis
+Early blight characteristics: Concentric ring-shaped brown lesions appear on leaves, with yellow edges
+
+4. Explainability Analysis (Grad-CAM)
+Model identified mild disease symptoms on crop surface
+
+5. Agricultural Implications & Treatment Recommendations
+- Strengthen observation and consider using appropriate fungicides for preventive treatment
+- Improve crop growing environment conditions

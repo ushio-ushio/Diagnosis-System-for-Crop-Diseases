@@ -1,0 +1,22 @@
+Crop Disease Diagnostic Report
+
+Sample ID: 1_23
+Input Image: 1_23.jpg
+
+1. Disease Classification Results
+Predicted Category: Peach Bacterial Spot (General)
+Prediction Confidence: 0.486
+
+2. Severity Assessment
+Predicted Level: General Disease
+Confidence: 0.974
+
+3. Disease Characteristics Analysis
+Bacterial spot characteristics: Water-soaked small spots appear on leaves and fruits, later turning brown
+
+4. Explainability Analysis (Grad-CAM)
+Model identified mild disease symptoms on crop surface
+
+5. Agricultural Implications & Treatment Recommendations
+- Strengthen observation and consider using appropriate fungicides for preventive treatment
+- Improve crop growing environment conditions

@@ -1,0 +1,23 @@
+Crop Disease Diagnostic Report
+
+Sample ID: 49_982
+Input Image: 49_982.jpg
+
+1. Disease Classification Results
+Predicted Category: Tomato Late Blight (Serious)
+Prediction Confidence: 1.000
+
+2. Severity Assessment
+Predicted Level: Serious Disease
+Confidence: 1.000
+
+3. Disease Characteristics Analysis
+Late blight characteristics: Water-soaked dark green lesions appear on leaves, rapidly expanding to cause whole leaf rot
+
+4. Explainability Analysis (Grad-CAM)
+Model identified severe disease symptoms on crop surface
+
+5. Agricultural Implications & Treatment Recommendations
+- Immediately take treatment measures
+- Use targeted agents and consider isolating the infected area
+- Remove severely infected plants to prevent spread

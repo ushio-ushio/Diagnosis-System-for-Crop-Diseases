@@ -1,0 +1,22 @@
+Crop Disease Diagnostic Report
+
+Sample ID: 59_283
+Input Image: 59_283.jpg
+
+1. Disease Classification Results
+Predicted Category: Tomato Yellow Leaf Curl Virus (General)
+Prediction Confidence: 0.514
+
+2. Severity Assessment
+Predicted Level: General Disease
+Confidence: 0.534
+
+3. Disease Characteristics Analysis
+Yellow leaf curl virus characteristics: Leaf edges curl upward, plants are stunted, and leaves turn yellow
+
+4. Explainability Analysis (Grad-CAM)
+Model identified mild disease symptoms on crop surface
+
+5. Agricultural Implications & Treatment Recommendations
+- Strengthen observation and consider using appropriate fungicides for preventive treatment
+- Improve crop growing environment conditions

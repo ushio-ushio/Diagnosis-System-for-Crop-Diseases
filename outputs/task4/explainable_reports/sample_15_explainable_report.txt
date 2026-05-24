@@ -1,0 +1,22 @@
+Crop Disease Diagnostic Report
+
+Sample ID: 1_15
+Input Image: 1_15.JPG
+
+1. Disease Classification Results
+Predicted Category: Apple Scab (General)
+Prediction Confidence: 0.608
+
+2. Severity Assessment
+Predicted Level: Healthy
+Confidence: 0.498
+
+3. Disease Characteristics Analysis
+Scab characteristics: Brown scab lesions appear on the leaf/fruit surface, and severe cases cause leaf distortion and fruit malformation
+
+4. Explainability Analysis (Grad-CAM)
+Model identified smooth leaf surface with normal color and no disease symptoms
+
+5. Agricultural Implications & Treatment Recommendations
+- Continue good orchard management
+- Regular inspection to prevent disease occurrence

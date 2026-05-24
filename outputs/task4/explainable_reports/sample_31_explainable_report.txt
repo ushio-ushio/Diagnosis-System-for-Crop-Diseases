@@ -1,0 +1,23 @@
+Crop Disease Diagnostic Report
+
+Sample ID: 2_31
+Input Image: 2_31.jpg
+
+1. Disease Classification Results
+Predicted Category: Cherry Powdery Mildew (General)
+Prediction Confidence: 0.931
+
+2. Severity Assessment
+Predicted Level: General Disease
+Confidence: 0.966
+
+3. Disease Characteristics Analysis
+Powdery mildew characteristics: White powdery substance covers the leaf surface, later turns gray-brown, and leaves curl
+
+4. Explainability Analysis (Grad-CAM)
+Model identified initial powdery substance on leaf surface, with local light powdery coverage
+
+5. Agricultural Implications & Treatment Recommendations
+- Improve ventilation conditions and avoid excessive plant density
+- Spray sulfur powder or triadimefon for prevention
+- Control watering to avoid prolonged leaf wetness

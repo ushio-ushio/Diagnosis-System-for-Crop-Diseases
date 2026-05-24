@@ -1,0 +1,62 @@
+[
+  {
+    "image_path": "D:\\code\\math-modeling\\2025\u6570\u7ef4\u676f\\2025\u6570\u7ef4\u676f\\outputs\\task4\\sample_reports\\sample_0_original.jpg",
+    "crop": "Apple",
+    "disease": "Scab (Serious)",
+    "severity": "Serious Disease",
+    "type_confidence": 0.6273783445358276,
+    "severity_confidence": 0.635360598564148,
+    "type_heatmap": "D:\\code\\math-modeling\\2025\u6570\u7ef4\u676f\\2025\u6570\u7ef4\u676f\\outputs\\task4\\sample_reports\\sample_0_type_heatmap.jpg",
+    "severity_heatmap": "D:\\code\\math-modeling\\2025\u6570\u7ef4\u676f\\2025\u6570\u7ef4\u676f\\outputs\\task4\\sample_reports\\sample_0_severity_heatmap.jpg",
+    "treatment_advice": "Immediate treatment measures are required. It is recommended to use targeted agents and consider isolating the infected area.",
+    "report_text": "\n[AI Agricultural Diagnosis Report]\nCrop Type: Apple\nDiagnosis Result: Scab (Serious)\nSeverity Level: Serious Disease\nConfidence: 63% (Type) / 64% (Severity)\nAdvice: Immediate treatment measures are required. It is recommended to use targeted agents and consider isolating the infected area.\n"
+  },
+  {
+    "image_path": "D:\\code\\math-modeling\\2025\u6570\u7ef4\u676f\\2025\u6570\u7ef4\u676f\\outputs\\task4\\sample_reports\\sample_1_original.jpg",
+    "crop": "Apple",
+    "disease": "Scab (General)",
+    "severity": "General Disease",
+    "type_confidence": 0.8225277066230774,
+    "severity_confidence": 0.8584749698638916,
+    "type_heatmap": "D:\\code\\math-modeling\\2025\u6570\u7ef4\u676f\\2025\u6570\u7ef4\u676f\\outputs\\task4\\sample_reports\\sample_1_type_heatmap.jpg",
+    "severity_heatmap": "D:\\code\\math-modeling\\2025\u6570\u7ef4\u676f\\2025\u6570\u7ef4\u676f\\outputs\\task4\\sample_reports\\sample_1_severity_heatmap.jpg",
+    "treatment_advice": "It is recommended to strengthen observation and consider using appropriate fungicides/insecticides for preventive treatment.",
+    "report_text": "\n[AI Agricultural Diagnosis Report]\nCrop Type: Apple\nDiagnosis Result: Scab (General)\nSeverity Level: General Disease\nConfidence: 82% (Type) / 86% (Severity)\nAdvice: It is recommended to strengthen observation and consider using appropriate fungicides/insecticides for preventive treatment.\n"
+  },
+  {
+    "image_path": "D:\\code\\math-modeling\\2025\u6570\u7ef4\u676f\\2025\u6570\u7ef4\u676f\\outputs\\task4\\sample_reports\\sample_2_original.jpg",
+    "crop": "Apple",
+    "disease": "Scab (Serious)",
+    "severity": "Serious Disease",
+    "type_confidence": 0.9832928776741028,
+    "severity_confidence": 0.9782247543334961,
+    "type_heatmap": "D:\\code\\math-modeling\\2025\u6570\u7ef4\u676f\\2025\u6570\u7ef4\u676f\\outputs\\task4\\sample_reports\\sample_2_type_heatmap.jpg",
+    "severity_heatmap": "D:\\code\\math-modeling\\2025\u6570\u7ef4\u676f\\2025\u6570\u7ef4\u676f\\outputs\\task4\\sample_reports\\sample_2_severity_heatmap.jpg",
+    "treatment_advice": "Immediate treatment measures are required. It is recommended to use targeted agents and consider isolating the infected area.",
+    "report_text": "\n[AI Agricultural Diagnosis Report]\nCrop Type: Apple\nDiagnosis Result: Scab (Serious)\nSeverity Level: Serious Disease\nConfidence: 98% (Type) / 98% (Severity)\nAdvice: Immediate treatment measures are required. It is recommended to use targeted agents and consider isolating the infected area.\n"
+  },
+  {
+    "image_path": "D:\\code\\math-modeling\\2025\u6570\u7ef4\u676f\\2025\u6570\u7ef4\u676f\\outputs\\task4\\sample_reports\\sample_3_original.jpg",
+    "crop": "Apple",
+    "disease": "Scab (General)",
+    "severity": "General Disease",
+    "type_confidence": 0.9841482639312744,
+    "severity_confidence": 0.992506206035614,
+    "type_heatmap": "D:\\code\\math-modeling\\2025\u6570\u7ef4\u676f\\2025\u6570\u7ef4\u676f\\outputs\\task4\\sample_reports\\sample_3_type_heatmap.jpg",
+    "severity_heatmap": "D:\\code\\math-modeling\\2025\u6570\u7ef4\u676f\\2025\u6570\u7ef4\u676f\\outputs\\task4\\sample_reports\\sample_3_severity_heatmap.jpg",
+    "treatment_advice": "It is recommended to strengthen observation and consider using appropriate fungicides/insecticides for preventive treatment.",
+    "report_text": "\n[AI Agricultural Diagnosis Report]\nCrop Type: Apple\nDiagnosis Result: Scab (General)\nSeverity Level: General Disease\nConfidence: 98% (Type) / 99% (Severity)\nAdvice: It is recommended to strengthen observation and consider using appropriate fungicides/insecticides for preventive treatment.\n"
+  },
+  {
+    "image_path": "D:\\code\\math-modeling\\2025\u6570\u7ef4\u676f\\2025\u6570\u7ef4\u676f\\outputs\\task4\\sample_reports\\sample_4_original.jpg",
+    "crop": "Apple",
+    "disease": "Scab (Serious)",
+    "severity": "General Disease",
+    "type_confidence": 0.5963281989097595,
+    "severity_confidence": 0.5218045115470886,
+    "type_heatmap": "D:\\code\\math-modeling\\2025\u6570\u7ef4\u676f\\2025\u6570\u7ef4\u676f\\outputs\\task4\\sample_reports\\sample_4_type_heatmap.jpg",
+    "severity_heatmap": "D:\\code\\math-modeling\\2025\u6570\u7ef4\u676f\\2025\u6570\u7ef4\u676f\\outputs\\task4\\sample_reports\\sample_4_severity_heatmap.jpg",
+    "treatment_advice": "It is recommended to strengthen observation and consider using appropriate fungicides/insecticides for preventive treatment.",
+    "report_text": "\n[AI Agricultural Diagnosis Report]\nCrop Type: Apple\nDiagnosis Result: Scab (Serious)\nSeverity Level: General Disease\nConfidence: 60% (Type) / 52% (Severity)\nAdvice: It is recommended to strengthen observation and consider using appropriate fungicides/insecticides for preventive treatment.\n"
+  }
+]

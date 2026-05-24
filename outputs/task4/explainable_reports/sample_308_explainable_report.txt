@@ -1,0 +1,23 @@
+Crop Disease Diagnostic Report
+
+Sample ID: 18_698
+Input Image: 18_698.jpg
+
+1. Disease Classification Results
+Predicted Category: Grape Black Rot (Serious)
+Prediction Confidence: 0.953
+
+2. Severity Assessment
+Predicted Level: Serious Disease
+Confidence: 0.965
+
+3. Disease Characteristics Analysis
+Black rot characteristics: Black sunken lesions appear on the fruit surface, and the entire fruit turns black and rots in later stages
+
+4. Explainability Analysis (Grad-CAM)
+Model identified large-area black rot on fruit surface with obvious depression
+
+5. Agricultural Implications & Treatment Recommendations
+- Immediately spray therapeutic fungicides (azoxystrobin, tebuconazole)
+- Thoroughly remove and destroy diseased fruits
+- Improve orchard drainage to reduce humidity

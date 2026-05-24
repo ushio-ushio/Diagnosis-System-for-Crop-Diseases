@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+dist/
+build/
+*.egg
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Project specific
+*.bak
+*.pth
+*.pt
+
+# Data (large files, not tracked)
+data/
+
+# Outputs (except sample reports)
+outputs/task1/
+outputs/task2/
+outputs/task3/
+outputs/task4/inference_results/
+outputs/task4/enhanced_visualizations/
+outputs/task4/visualizations/
+outputs/vis_task*/
+outputs/task*_train_log.csv
+
+# Keep sample reports for demonstration
+!outputs/task4/explainable_reports/
+!outputs/task4/sample_reports/

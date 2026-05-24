@@ -1,0 +1,23 @@
+Crop Disease Diagnostic Report
+
+Sample ID: 32_868
+Input Image: 32_868.JPG
+
+1. Disease Classification Results
+Predicted Category: Pepper Scab (Serious)
+Prediction Confidence: 0.687
+
+2. Severity Assessment
+Predicted Level: Serious Disease
+Confidence: 0.788
+
+3. Disease Characteristics Analysis
+Scab characteristics: Brown scab lesions appear on the leaf/fruit surface, and severe cases cause leaf distortion and fruit malformation
+
+4. Explainability Analysis (Grad-CAM)
+Model identified large-area scab regions covering leaf/fruit surface with obvious deformation
+
+5. Agricultural Implications & Treatment Recommendations
+- Immediately spray therapeutic fungicides (tebuconazole, flusilazole)
+- Thoroughly remove and destroy diseased leaves and fruits
+- Improve orchard drainage to reduce humidity
